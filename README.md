@@ -8,3 +8,7 @@ Todo el código de desarrollo se encuentra en el notebook "Notebook_Desarrollo_T
 Para reproducir el proyecto, puede descargar el conjunto de datos utilizados y los mejores modelos entrenados desde el siguiente enlace de Google Drive (ingresar con correo de la Universidad Nacional de Colombia @unal.edu.co):
 
 📁 [Acceder a los datos y modelos exportados](https://drive.google.com/drive/folders/1OK_9HTEb5S6iVZKLcb2tuzkZQcZFNnLA?usp=sharing)
+
+O también disponibles en zenodo.org:
+
+📁 [Acceder a los datos y modelos exportados](https://zenodo.org/records/15628098?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6Ijk1Njk5NDE2LThmMDItNDU4MS04OTcxLTBiYjhjODRiNTc1NCIsImRhdGEiOnt9LCJyYW5kb20iOiIzOWFkMWViNThhMmI5ODUyZWU5NjY3ZjE0NjEwZjZkNSJ9.fFFVHYbAA_oUFrKcOMaDiEq9qjNDZ212PV6rx7HrSE-w6lpQ5dx9YE1kpl1e9xycPqndjzooEzJ13s8Gq-NSFg)
